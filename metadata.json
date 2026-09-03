@@ -1,0 +1,6 @@
+{
+  "name": "Maa Ambika Medical Hall",
+  "description": "Your trusted medical store for genuine medicines, healthcare products, surgical supplies, baby care, and instant WhatsApp medicine ordering in Masaurhi, Bihar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

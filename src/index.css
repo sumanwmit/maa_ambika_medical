@@ -1,0 +1,51 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --color-obsidian: #050505;
+    --color-surface-dark: #0b0b0b;
+    --color-surface-card: #111111;
+    --color-gold: #C5A059;
+    --color-gold-hover: #D8B26E;
+    --color-gold-muted: #8c713b;
+    --color-text-main: #F5F5F5;
+    --color-text-muted: rgba(255, 255, 255, 0.6);
+  }
+
+  body {
+    background-color: #050505;
+    color: #F5F5F5;
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    overflow-x: hidden;
+  }
+
+  h1, h2, h3, .font-serif {
+    font-family: 'Cormorant Garamond', 'Playfair Display', Georgia, serif;
+  }
+}
+
+/* Luxury custom scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #050505;
+}
+::-webkit-scrollbar-thumb {
+  background: #1f1f1f;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #C5A059;
+}
+
+/* Subtle gold luxury utilities */
+.gold-glow {
+  box-shadow: 0 0 25px -5px rgba(197, 160, 89, 0.25);
+}
+
+.gold-border-glow:hover {
+  border-color: rgba(197, 160, 89, 0.5);
+  box-shadow: 0 0 20px -3px rgba(197, 160, 89, 0.15);
+}

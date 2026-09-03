@@ -1,0 +1,178 @@
+[
+  {
+    "id": "MED-001",
+    "name": "Paracetamol 650mg (Dolo 650)",
+    "brand": "Micro Labs",
+    "category": "Antipyretic & Pain Relief",
+    "mrp": 34.50,
+    "availableQuantity": 120,
+    "expiry": "11/2027",
+    "status": "Available",
+    "dosage": "1 tablet every 6-8 hours after food as directed"
+  },
+  {
+    "id": "MED-002",
+    "name": "Azithromycin 500mg (Azithral)",
+    "brand": "Alembic Pharma",
+    "category": "Antibiotics",
+    "mrp": 122.00,
+    "availableQuantity": 35,
+    "expiry": "09/2026",
+    "status": "Available",
+    "dosage": "Once daily for 3 to 5 days on prescription"
+  },
+  {
+    "id": "MED-003",
+    "name": "Pantoprazole DSR (Pan-D)",
+    "brand": "Alkem Laboratories",
+    "category": "Acidity & Gastro",
+    "mrp": 198.00,
+    "availableQuantity": 15,
+    "expiry": "04/2027",
+    "status": "Limited Stock",
+    "dosage": "1 capsule daily before breakfast"
+  },
+  {
+    "id": "MED-004",
+    "name": "Telmisartan 40mg (Telma 40)",
+    "brand": "Glenmark",
+    "category": "Cardiac & Blood Pressure",
+    "mrp": 215.00,
+    "availableQuantity": 60,
+    "expiry": "12/2027",
+    "status": "Available",
+    "dosage": "Daily once as prescribed by cardiologist"
+  },
+  {
+    "id": "MED-005",
+    "name": "Metformin 500mg SR (Glycomet)",
+    "brand": "USV Ltd",
+    "category": "Diabetes Care",
+    "mrp": 42.00,
+    "availableQuantity": 85,
+    "expiry": "01/2028",
+    "status": "Available",
+    "dosage": "With or after evening meals"
+  },
+  {
+    "id": "MED-006",
+    "name": "Human Insulin R 100IU/ml (Huminsulin)",
+    "brand": "Eli Lilly",
+    "category": "Diabetes Care",
+    "mrp": 175.00,
+    "availableQuantity": 6,
+    "expiry": "06/2026",
+    "status": "Limited Stock",
+    "dosage": "Stored in refrigerated cold chain (2°C-8°C)"
+  },
+  {
+    "id": "MED-007",
+    "name": "Montelukast + Levocetirizine (Montair-LC)",
+    "brand": "Cipla",
+    "category": "Allergy & Respiratory",
+    "mrp": 290.00,
+    "availableQuantity": 45,
+    "expiry": "08/2027",
+    "status": "Available",
+    "dosage": "1 tablet at bedtime"
+  },
+  {
+    "id": "MED-008",
+    "name": "Amoxicillin + Potassium Clavulanate (Augmentin 625 Duo)",
+    "brand": "GSK (GlaxoSmithKline)",
+    "category": "Antibiotics",
+    "mrp": 204.00,
+    "availableQuantity": 0,
+    "expiry": "03/2026",
+    "status": "Out of Stock",
+    "dosage": "Twice daily after food with water"
+  },
+  {
+    "id": "MED-009",
+    "name": "ORS Powder Electral 21.8g",
+    "brand": "FDC Limited",
+    "category": "First Aid & Rehydration",
+    "mrp": 22.50,
+    "availableQuantity": 150,
+    "expiry": "05/2028",
+    "status": "Available",
+    "dosage": "Dissolve entire pack in 1 litre of clean water"
+  },
+  {
+    "id": "MED-010",
+    "name": "Accu-Chek Active Test Strips (50 Strips)",
+    "brand": "Roche Diabetes Care",
+    "category": "Diagnostic Devices",
+    "mrp": 1049.00,
+    "availableQuantity": 12,
+    "expiry": "10/2026",
+    "status": "Available",
+    "dosage": "For blood glucose monitoring"
+  },
+  {
+    "id": "MED-011",
+    "name": "Omron Digital BP Monitor HEM-7120",
+    "brand": "Omron Healthcare",
+    "category": "Medical Equipment",
+    "mrp": 2480.00,
+    "availableQuantity": 4,
+    "expiry": "N/A (3 Yr Warranty)",
+    "status": "Limited Stock",
+    "dosage": "One-touch automatic blood pressure monitor"
+  },
+  {
+    "id": "MED-012",
+    "name": "Becosules Z Multivitamin Capsules",
+    "brand": "Pfizer",
+    "category": "Supplements & Immunity",
+    "mrp": 55.00,
+    "availableQuantity": 90,
+    "expiry": "02/2028",
+    "status": "Available",
+    "dosage": "Daily 1 capsule post meal"
+  },
+  {
+    "id": "MED-013",
+    "name": "Himalaya Baby Massage Oil 200ml",
+    "brand": "The Himalaya Drug Co.",
+    "category": "Baby Care",
+    "mrp": 195.00,
+    "availableQuantity": 30,
+    "expiry": "11/2027",
+    "status": "Available",
+    "dosage": "Gentle daily infant massage"
+  },
+  {
+    "id": "MED-014",
+    "name": "Cough Syrup Ascoril D Plus 100ml",
+    "brand": "Glenmark",
+    "category": "Cough & Cold",
+    "mrp": 138.00,
+    "availableQuantity": 0,
+    "expiry": "07/2026",
+    "status": "Out of Stock",
+    "dosage": "5-10ml as prescribed by physician"
+  },
+  {
+    "id": "MED-015",
+    "name": "Betadine 10% Solution 100ml",
+    "brand": "Win-Medicare",
+    "category": "Surgical & Wound Care",
+    "mrp": 140.00,
+    "availableQuantity": 25,
+    "expiry": "04/2027",
+    "status": "Available",
+    "dosage": "Topical antiseptic for cuts, burns & dressing"
+  },
+  {
+    "id": "MED-016",
+    "name": "Volini Pain Relief Gel 50g",
+    "brand": "Sun Pharma",
+    "category": "Pain Relief",
+    "mrp": 165.00,
+    "availableQuantity": 40,
+    "expiry": "01/2028",
+    "status": "Available",
+    "dosage": "Apply gently on affected joints or muscles"
+  }
+]
